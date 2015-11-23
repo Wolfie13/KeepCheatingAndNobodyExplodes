@@ -9,5 +9,9 @@
 *.fsproj merge=union
 *.dbproj merge=union
 
+*.suo
 *.exe
-.vs/KeepCheating/v14/.suo
+*.pdb
+
+*/obj/*
+*.FileListAbsolute.txt

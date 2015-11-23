@@ -10,3 +10,4 @@
 *.dbproj merge=union
 
 *.exe
+.vs/KeepCheating/v14/.suo
